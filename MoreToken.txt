@@ -1,0 +1,12 @@
+query.addQueryItem("client_id","P2b5h1vg1s3pjSuRmD3UKcVI");
+query.addQueryItem("client_secret","Lil37xbKf53EgjdzSSU5wNdhpuJRy53B");
+
+query.addQueryItem("client_id","oQXBR1aW4BrlvqrvMpCAkyCd");
+query.addQueryItem("client_secret","BxjQcEpqiKDuUR19e1vv3F4CFTBQgPpj");
+
+vsRmajo8BxycoSEDk4bOVkcG
+xb6a8cijU2L46rrzd1x4Tf4UQ5oK5HDu
+
+手势
+te1yteFPArHjxpGqcDeTkVlD
+9bPtNdzciMqGV9BW0ONleERhqu1vejIs

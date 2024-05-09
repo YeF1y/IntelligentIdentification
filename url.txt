@@ -1,0 +1,1 @@
+https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=vsRmajo8BxycoSEDk4bOVkcG&client_secret=xb6a8cijU2L46rrzd1x4Tf4UQ5oK5HDu&
